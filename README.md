@@ -50,7 +50,7 @@ End-to-end **SQL + Power BI** project analyzing a Quick Commerce dataset with 1 
 
 ## 🧹 Data Cleaning Highlights (SQL)
 
-- Converted raw text fields into proper numeric types
+- Converted raw text fields into proper numeric type
 - Handled missing values logically (no fake imputation)
 - Fixed decimal-to-integer issues (e.g., Items Count)
 - Preserved data integrity using `TRY_CAST`
